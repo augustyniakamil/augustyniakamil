@@ -1,7 +1,7 @@
 # Kamil Augustyniak - Front-end Developer
 Hi! 👋
 
-Programming is my passion, in particular web development. For over 2 years I’ve worked as a Front-end Developer in Software House in Olsztyn (Poland). I work on big business applications where we use the Angular framework with internal company or project Angular libraries (hosted on Nexus server) to whose development I have contributed.
+Programming is my passion, in particular web development. For over 3 years I’ve worked as a Front-end Developer in Software House in Olsztyn (Poland). I work on big business applications where we use the Angular framework with internal company or project Angular libraries (hosted on Nexus server) to whose development I have contributed.
 
 My adventure with Angular started from the 4th version and I really like it. Reactive programming by using RxJS is not unfamiliar to me. And what about React?! Unfortunately, I don’t have any commercial experience with it but I don’t say NO.  Contrary! I’d like to try it. I’m on the Typescript and clean code side so I often like fixing something and making it better. 
 
